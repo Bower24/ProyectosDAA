@@ -1,0 +1,9 @@
+Orden asintótico
+
+Dentro del bucle While se identifican hasta 9 operaciones elementales
+Aparte, se considera la función "comprobarOperacion(x)" que llama a las funciones que realizan operaciones
+Todas las funciones de operación tienen O(n)
+Entonces
+Considerando que el bucle While se puede repetir k veces 
+
+T(n,k) ⇒ O( (n+9)*k+3 )
