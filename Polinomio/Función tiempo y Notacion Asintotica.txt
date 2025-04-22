@@ -1,0 +1,21 @@
+2) Función tiempo 
+El algoritmo hace 4 llamadas recursivas por cada división, por lo tanto:
+
+T(n) = 4T(n/2) + g(n)
+
+considerando que el tamaño de A y B es n 
+
+T(n)=aT(n/b)+O(1)
+
+3)Notación Asintótica
+
+T(n) ⇒ O(n ^ log  en base b de a)
+
+T(n) ⇒ O(n ^ log  en base 2 de 4)
+
+T(n) ⇒ 0(n^2)
+
+T(n)  ∈  0(n^2)
+
+
+
